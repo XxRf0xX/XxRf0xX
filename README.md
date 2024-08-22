@@ -9,7 +9,7 @@
   <li>TypeScrip</li>
 </ul>
 
-<h3>Frameworkd</h3>
+<h3>Frameworks</h3>
 <ul>
   <li>React</li>
   <li>NextJs</li>
