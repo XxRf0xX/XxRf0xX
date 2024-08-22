@@ -1,7 +1,5 @@
 ### Hi there 👋
 <h2 align='center'> Personal test Profile </h2>
-
-<div align='center>
   
 <h2>Frontend</h2>
 
@@ -35,4 +33,3 @@
   <li>MySql</li>
 </ul>
 
-</div>
